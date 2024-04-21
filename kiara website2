@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gasco</title>
+    <style>
+        body {
+            font-family: Gabriola, serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: #b69b7d;
+        }
+        header {
+	    background-color: #321f19;
+            color: brown;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        main {
+            font-size: 1.7em;
+	    padding: 20px;
+            text-align: center;
+        }
+        footer {
+            background-color: #321f19;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        h1 {
+            font-family: 'Gabriola', serif;
+            color: #f8f8ff;
+            border-bottom: 2px solid #f8f8ff;
+            padding-bottom: 5px;
+        }
+	h2 {
+	    font-family: 'Gabriola', serif;
+            color: #321f19;
+            border-bottom: 2px solid #321f19;
+            padding-bottom: 5px;
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+            border: 1px solid #333;
+            border-radius: 5px;
+        }
+        small-img {
+            width: 250px;
+            height: 250px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Hi, My Name is Kiara!</h1>
+    </header>
+    <main>
+        <h2>About Me</h2>
+        <p>My name is Yzzobel Kiara L. Gasco. I am a college student of MSU-GenSan, currently taking up Bachelor of Arts in English Language Studies. I am 20 years old, straight, and I live at Polomolok, South Cotabato. 
+          My friends refer to me as Kiara, and closer friends call me Kia; it's a cute nickname a friend from high school gave me. I spend my time doom scrolling on TikTok, watching movies, 
+          reading books, and lately, playing Valorant. These help me cope with the boredom at home, and with the stress from school.</p>
+	<p>Growing up, I've gone through many career aspirations, and lately, what I really want to become is a <b>teacher.</b> But, I also do want to earn a lot of money so I aim to 
+venture into business, specifically real estate.</p>
+	<p>I believe that working hard enough and having a bit of luck on my side will help me achieve my dreams.</p>
+        <img src="https://i.imgur.com/5s5Kvat.jpeg" alt="Placeholder Image 1" class="small-img">
+    </main>
+    <footer>
+        <p>&copy; 2024 GEL2 Living in the IT Era</p>
+    </footer>
+</body>
+</html>
